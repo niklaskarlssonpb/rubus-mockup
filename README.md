@@ -3,4 +3,5 @@
 3. Öppna upp HTML filen i mappen i din webbläsare.
 4. Öppna upp mappen i Replit/Lovable eller annat verktyg du använder och gå loss. 🚀
 
-Notera att att om du är inne i gränssnittet och klickar dig vidare via en länk, så kommer du hamna i test.rubus.pineberry.com och kommer alltså inte vara i din lokala miljö, därför bör HTML sidan som sparas vara en test-Rubus sidan, utifall man blir lurad och tror att man är i sin lokala miljö.
+
+Notera att att om du är inne i gränssnittet och klickar dig vidare via en länk så kommer du lämna din lokala miljö och kommer istället hamna i test.rubus.pineberry.com, därför bör HTML sidan som sparas vara en test-Rubus sida och inte "riktiga Rubus", utifall man blir lurad och gör något som man inte borde pga att man har klickat på en länk och tror att man fortfarande är i sin lokala miljö.
